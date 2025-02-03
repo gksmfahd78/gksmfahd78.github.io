@@ -2,9 +2,9 @@
 
 # GENERAL SITE SETTINGS
 # title: This will be displayed as the website's name in your browser tab.
-title: Neumorphism
+title: leedonghyun
 # description: This will be meta HTML tag content. This can be ignored.
-description: Personal website powered by Jekyll
+description: leedonghyun portfolio
 # baseurl: The subpath of your site
 # > set this to "", if you renamed the repository to <user>.github.io
 url: "https://gksmfahd78.github.io/"
@@ -12,20 +12,20 @@ baseurl: ""
 
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
-username: Neumorphism
+username: leedonghyun
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
 typing_text: Jekyll Theme
 # email: Your E-Mail address for the email button.
-email: email@example.com
+email: admin@leedonghyun.kr
 # For every social button you want to display, set your username or userid
 # If you do not use one of the following websites, then leave it empty
 # > twitter_username:
-github_username: longpdo
-codepen_username: exampleUser
-dev_username: exampleUser
-linkedin_username: exampleUser
-twitter_username: exampleUser
+github_username: leedonghyun
+codepen_username: leedonghyun
+dev_username: leedonghyun
+linkedin_username: leedonghyun
+twitter_username: leedonghyun
 
 # ABOUT ME SECTION
 # show_aboutme_card:
@@ -87,7 +87,7 @@ contact_description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, se
 # GITHUB-METADATA
 # Set this to your forked repository
 # > e.g. <user>/<user>.github.io
-repository: longpdo/neumorphism
+repository: gksmfahd78/gksmfahd78.github.io
 projects:
   # sortby:
   # > set this to pushed, if you want to sort your github repositories by time.
