@@ -1,61 +1,39 @@
-# > title: Name of your timeline entry, university or work place
-# > title-url: Link to your timeline entry, university or work place
-# > date: Time span
-# > subtitle: The description under the title
-# > tags: List of tags you want to associate with the entry
-# > timeline-side: The side on which you want to display the entry: left or right
+- title: AjouLLM CLI
+  title-url: https://github.com/gksmfahd78/AjouLLMCLI
+  date: 2026
+  subtitle: Built a Node.js terminal interface for LLM chat, project context, planning, and agent-style file edits.
+  tags:
+    - tag: Node.js
+    - tag: CLI
+    - tag: LLM
+  timeline-side: right
 
-# Example of a timeline entry
-# - title: airbnb
-#   title-url: https://example.com/
-#   date: Sep 2019 - Present
-#   subtitle: Fullstack Developer
-#   tags:
-#     - tag: React
-#     - tag: Javascript
-#     - tag: Ruby
-#     - tag: Rails
-#   timeline-side: right
-
-- title: airbnb
-  title-url: https://example.com/
-  date: Sep 2019 - Present
-  subtitle: Fullstack Developer
+- title: Once Human Memetic Note
+  title-url: https://memeticnote.kr
+  date: 2025
+  subtitle: Developed a full-stack game utility with OCR, Discord auth, hive sharing, chat, and trading features.
   tags:
     - tag: React
-    - tag: Javascript
-    - tag: Ruby
-    - tag: Rails
-  timeline-side: right
-
-- title: Google
-  title-url: https://example.com/
-  date: Mar 2019 - Sep 2019
-  subtitle: Software Engineer as Intern
-  tags:
-    - tag: Flutter
-    - tag: Dart
-    - tag: Keycloak
-  timeline-side: right
-
-- title: Super University
-  title-url: https://example.com/
-  date: 2017 - 2019
-  subtitle: M.Sc. Computer Science
+    - tag: Express
+    - tag: OCR
   timeline-side: left
 
-- title: Facebook
-  title-url: https://example.com/
-  date: Sep 2017 - Mar 2019
-  subtitle: Front-End Developer as Intern
+- title: Discord TTS
+  title-url: https://github.com/gksmfahd78/discord-tts
+  date: 2025
+  subtitle: Published a Python TTS helper library for Discord bots with multilingual playback and filtering.
   tags:
-    - tag: React
-    - tag: Node
-    - tag: Javascript
+    - tag: Python
+    - tag: Discord
+    - tag: TTS
   timeline-side: right
 
-- title: Super University
-  title-url: https://example.com/
-  date: 2014 - 2017
-  subtitle: B.A. Computer Science
+- title: AppJam Railroad
+  title-url: https://github.com/gksmfahd78/AppJam_Railroad
+  date: 2019
+  subtitle: Built an award-winning Unity roguelike train game during the 19th AppJam.
+  tags:
+    - tag: Unity
+    - tag: C#
+    - tag: Hackathon
   timeline-side: left
