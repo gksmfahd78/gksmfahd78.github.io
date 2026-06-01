@@ -1,33 +1,52 @@
-# > name: Name of your project
-# > descr: Description of your project
-# > demo: Link to your project
-# > tags: List of technologies you used in your projects
-#
-# Example of a project
-# - name: project X
-#   descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
-#   demo: https://example.com/
-#   tags:
-#     - tag: MongoDB
-#     - tag: Express
-#     - tag: AngularJS
-#     - tag: Node
-
-- name: project X
-  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
-  demo: https://example.com/
+- name: AjouLLM CLI
+  descr: "Node.js CLI/TUI for using Mindlogic Gateway models from the terminal. It supports chat, project context scanning, planning, and agent-style file edits."
+  demo: https://github.com/gksmfahd78/AjouLLMCLI
   tags:
-    - tag: MongoDB
-    - tag: Express
-    - tag: AngularJS
-    - tag: Node
+    - tag: Node.js
+    - tag: CLI
+    - tag: TUI
+    - tag: LLM
 
-- name: project Y
-  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
-  demo: https://example.com/
+- name: Once Human Memetic Note
+  descr: "Full-stack Once Human utility for tracking memetic progress with Discord auth, hive sharing, OCR, chat, and a trading board."
+  demo: https://memeticnote.kr
+  tags:
+    - tag: React
+    - tag: Express
+    - tag: SQLite
+    - tag: OCR
+
+- name: Discord TTS
+  descr: "Python TTS helper library for Discord bots with multilingual playback, text filtering, FFmpeg checks, and voice-channel helpers."
+  demo: https://github.com/gksmfahd78/discord-tts
   tags:
     - tag: Python
-    - tag: Django
+    - tag: Discord
+    - tag: TTS
+    - tag: FFmpeg
 
-- name: project Z
-  descr: "You can also set a project without demo link and no tags"
+- name: Doc3D Render
+  descr: "Synthetic document rendering experiments and Blender/Python pipeline fixes for computer vision dataset workflows."
+  demo: https://github.com/gksmfahd78/doc3d-render
+  tags:
+    - tag: Python
+    - tag: Blender
+    - tag: Computer Vision
+    - tag: Synthetic Data
+
+- name: AppJam Railroad
+  descr: "Award-winning Unity roguelike train game built during the 19th AppJam entertainment category."
+  demo: https://github.com/gksmfahd78/AppJam_Railroad
+  tags:
+    - tag: Unity
+    - tag: C#
+    - tag: Game
+    - tag: Hackathon
+
+- name: Baekjoon Algorithm
+  descr: "C++ algorithm practice and problem-solving notes for Baekjoon Online Judge."
+  demo: https://github.com/gksmfahd78/baekjoon-algorithm
+  tags:
+    - tag: C++
+    - tag: Algorithms
+    - tag: Problem Solving
